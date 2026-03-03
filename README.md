@@ -1,4 +1,4 @@
-
+![Enterprise Network Topology](./topology.png)
 
 1. Network Topology & Infrastructure 
 Multi-Zone Architecture: Designed a robust network spanning two geographical zones (Zone 1 & Zone 2) connected via a simulated ISP (Net cloud).
